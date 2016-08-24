@@ -1,7 +1,7 @@
 import React, { PropTypes } from 'react';
 import Helmet from 'react-helmet';
 
-import 'search/css/App.scss';
+import 'admin/css/App.scss';
 import { gettext as _ } from 'core/utils';
 
 
